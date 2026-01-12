@@ -1,5 +1,6 @@
 {
-  "name": "attendance-system",
+  "name": "@kheilla/attendance-system",
+
   "version": "1.0.0",
   "description": "Student attendance management system",
   "keywords": [
