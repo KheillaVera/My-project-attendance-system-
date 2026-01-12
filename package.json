@@ -1,0 +1,25 @@
+{
+  "name": "attendance-system",
+  "version": "1.0.0",
+  "description": "Student attendance management system",
+  "keywords": [
+    "attendance",
+    "students",
+    "school"
+  ],
+  "homepage": "https://github.com/KheillaVera/My-project-attendance-system-#readme",
+  "bugs": {
+    "url": "https://github.com/KheillaVera/My-project-attendance-system-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KheillaVera/My-project-attendance-system-.git"
+  },
+  "license": "ISC",
+  "author": "KheillaVera",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
